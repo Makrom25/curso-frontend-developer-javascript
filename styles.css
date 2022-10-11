@@ -352,6 +352,12 @@ aside {
     border-radius: 0 0 20px 20px;
 }
 
+.product-detail-close img {
+    width: 20px;
+    position: absolute;
+    left: 9px;
+    top: 10px;
+}
 #product-detail .product-info {
     margin: 24px 24px 0 24px;
 }
